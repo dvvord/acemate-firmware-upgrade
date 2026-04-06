@@ -1,4 +1,4 @@
-# AceMate OTA
+# AceMate firmware upgrade script
 
 Custom firmware update tool for the AceMate tennis robot (current available version is v1.4.3).
 
