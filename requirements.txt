@@ -1,0 +1,7 @@
+requests
+requests-toolbelt
+bleak
+
+# dev/test
+pytest
+pytest-asyncio
